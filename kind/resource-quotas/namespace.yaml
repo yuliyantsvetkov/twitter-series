@@ -1,0 +1,8 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: kind
+  labels:
+    name: kind
+    usage: twitter-series
+    quota-set: "true"
